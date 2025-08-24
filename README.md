@@ -11,9 +11,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/[your-username]/portfolio_page">
+  <a href="https://github.com/MohamedOmarKhedr/portfolio_page">
     <!-- IMPORTANT: Place your logo in an 'images' folder -->
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/images/logo1.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">My Professional Portfolio</h3>
@@ -21,14 +21,9 @@
   <p align="center">
     An exquisitely crafted digital resume, built with Flutter to deliver a seamless and unforgettable user experience across all devices.
     <br />
-    <a href="https://github.com/[your-username]/portfolio_page"><strong>Explore the Code »</strong></a>
+    <a href="https://github.com/MohamedOmarKhedr/portfolio_page"><strong>Explore the Code »</strong></a>
     <br />
-    <br />
-    <a href="https://[your-live-demo-url]"><strong>View Live Demo »</strong></a>
-    ·
-    <a href="https://github.com/[your-username]/portfolio_page/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/[your-username]/portfolio_page/issues">Request Feature</a>
+    
   </p>
 </div>
 
@@ -62,7 +57,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Showcase GIF][product-screenshot]](https://[your-live-demo-url])
 
 In today's digital world, a portfolio is more than a list of projects; it's a statement of skill, creativity, and technical prowess. This project was born out of the desire to build a personal brand identity that stands out. I chose Flutter not just for its cross-platform capabilities, but for the absolute control it provides over every pixel on the screen, enabling the creation of a truly bespoke and fluid user interface.
 
@@ -136,14 +130,9 @@ Explore the different sections to see the features in action:
 
 A live version of the site can be explored here:
 
-➡️ **[your-live-demo-url]**
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- ROADMAP -->
-## Roadmap
 
-See the [open issues](https://github.com/[your-username]/portfolio_page/issues) for a full list of proposed features (and known issues).
 
 - [ ] Integrate with a Headless CMS (e.g., Strapi) for dynamic project updates.
 - [ ] Implement a full blog section with rich text and code snippets.
@@ -177,9 +166,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[Your Name] - [@your_twitter_handle](https://twitter.com/[your_twitter_handle]) - [your-email@example.com]
 
-Project Link: [https://github.com/[your-username]/portfolio_page](https://github.com/[your-username]/portfolio_page)
+
+Project Link: [https://github.com/MohamedOmarKhedr/portfolio_page](https://github.com/[your-username]/portfolio_page)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
