@@ -44,7 +44,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -135,12 +134,7 @@ A live version of the site can be explored here:
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- CONTACT -->
-## Contact
 
-
-
-Project Link: [https://github.com/MohamedOmarKhedr/portfolio_page](https://github.com/[your-username]/portfolio_page)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
