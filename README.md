@@ -20,9 +20,7 @@
 
   <p align="center">
     An exquisitely crafted digital resume, built with Flutter to deliver a seamless and unforgettable user experience across all devices.
-    <br />
-    <a href="https://github.com/MohamedOmarKhedr/portfolio_page"><strong>Explore the Code »</strong></a>
-    <br />
+    
     
   </p>
 </div>
@@ -46,11 +44,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -101,7 +95,7 @@ Make sure you have the Flutter SDK installed on your machine.
 
 1.  Clone the repo
     ```sh
-    git clone https://github.com/[your-username]/portfolio_page.git
+    git clone https://github.com/MohamedOmarKhedr/portfolio_page.git
     ```
 2.  Navigate to the project directory
     ```sh
@@ -140,28 +134,6 @@ A live version of the site can be explored here:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
@@ -172,30 +144,3 @@ Project Link: [https://github.com/MohamedOmarKhedr/portfolio_page](https://githu
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-*   Flutter Documentation
-*   Img Shields
-*   Font Awesome
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/[your-username]/portfolio_page.svg?style=for-the-badge
-[contributors-url]: https://github.com/[your-username]/portfolio_page/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/[your-username]/portfolio_page.svg?style=for-the-badge
-[forks-url]: https://github.com/[your-username]/portfolio_page/network/members
-[stars-shield]: https://img.shields.io/github/stars/[your-username]/portfolio_page.svg?style=for-the-badge
-[stars-url]: https://github.com/[your-username]/portfolio_page/stargazers
-[issues-shield]: https://img.shields.io/github/issues/[your-username]/portfolio_page.svg?style=for-the-badge
-[issues-url]: https://github.com/[your-username]/portfolio_page/issues
-[license-shield]: https://img.shields.io/github/license/[your-username]/portfolio_page.svg?style=for-the-badge
-[license-url]: https://github.com/[your-username]/portfolio_page/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/[your-linkedin-username]
-[product-screenshot]: images/portfolio-showcase.gif
-[Flutter.dev]: https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
-[Flutter-url]: https://flutter.dev/
-[Dart.dev]: https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
-[Dart-url]: https://dart.dev/
