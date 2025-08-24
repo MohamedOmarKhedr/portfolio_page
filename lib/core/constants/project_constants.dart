@@ -7,10 +7,18 @@ class ProjectConstants {
     ProjectModel(
       title: 'JPBSQUE App - E-commerce',
       description: 'A comprehensive e-commerce application built with a focus on modern architecture and state management.',
-      features: 'Flutter, Clean Architecture, RESTful APIs, Cubit, User Authentication, Product Browsing, Shopping Cart.',
+      features: 'Flutter, Clean Architecture, RESTful APIs, Cubit, User Authentication, Product Browsing.',
       githubUrl: 'https://github.com/MohamedOmarKhedr/JOBSQUE_APP',
       websiteUrl: '',
-      imageUrl: 'https://placehold.co/600x400/1E293B/6366F1?text=JPBSQUE+App',
+      imageUrl: '',
+    ),
+    ProjectModel(
+      title: 'My Portfolio Page',
+      description: 'A Web-Site built with a focus on modern architecture.',
+      features: 'Flutter, Clean Architecture, Responsive & Adaptive Design (mobile, tablet, desktop).',
+      githubUrl: 'https://github.com/MohamedOmarKhedr/portfolio_page',
+      websiteUrl: '',
+      imageUrl: '',
     ),
     ProjectModel(
       title: 'Notes App',
@@ -18,7 +26,7 @@ class ProjectConstants {
       features: 'Flutter, Hive Local Database, CRUD Operations, Search Functionality, User Interface.',
       githubUrl: 'https://github.com/MohamedOmarKhedr/notes_app_clean_arch',
       websiteUrl: '',
-      imageUrl: 'https://placehold.co/600x400/1E293B/10B981?text=Notes+App',
+      imageUrl: '',
     ),
     ProjectModel(
       title: 'Movies App',
@@ -26,7 +34,7 @@ class ProjectConstants {
       features: 'Flutter, RESTful APIs (TMDB), Local Storage (for notes), Movie Details, Search.',
       githubUrl: 'https://github.com/MohamedOmarKhedr/movies_app',
       websiteUrl: '',
-      imageUrl: 'https://placehold.co/600x400/1E293B/EC4899?text=Movies+Notes',
+      imageUrl: '',
     ),
     ProjectModel(
       title: 'Bookly App',
@@ -34,7 +42,7 @@ class ProjectConstants {
       features: 'Flutter, Clean Architecture, RESTful APIs, Cubit, Book Browsing, Search, Favorites.',
       githubUrl: 'https://github.com/MohamedOmarKhedr/bookkly_app_clean_arch',
       websiteUrl: '',
-      imageUrl: 'https://placehold.co/600x400/1E293B/F59E0B?text=Bookly+App',
+      imageUrl: '',
     ),
     ProjectModel(
       title: 'Weather Now (Responsive)',
@@ -42,7 +50,7 @@ class ProjectConstants {
       features: 'Flutter, REST APIs (OpenWeatherMap), Cubit, Responsive & Adaptive Design (mobile, tablet, desktop), Localization (Arabic & English), Dark Mode Support.',
       githubUrl: 'https://github.com/MohamedOmarKhedr/responsive_weather_now',
       websiteUrl: '',
-      imageUrl: 'https://placehold.co/600x400/1E293B/3B82F6?text=Weather+App',
+      imageUrl: '',
     ),
     ProjectModel(
       title: 'Responsive Dash Board',
@@ -50,7 +58,7 @@ class ProjectConstants {
       features: 'Flutter, Responsive UI, Dashboard Widgets, Data Visualization (Mock Data).',
       githubUrl: 'https://github.com/MohamedOmarKhedr/responsive_dash_board',
       websiteUrl: '',
-      imageUrl: 'https://placehold.co/600x400/1E293B/8B5CF6?text=Dashboard',
+      imageUrl: '',
     ),
   ];
 }
